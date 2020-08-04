@@ -1,0 +1,5 @@
+z offset setup
+    https://www.youtube.com/watch?v=y_1Kg45APko
+
+TEMP PID Config
+    https://www.3dmakerengineering.com/blogs/3d-printing/pid-tuning-marlin-firmware
